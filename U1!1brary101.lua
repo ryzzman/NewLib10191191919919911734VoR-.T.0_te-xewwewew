@@ -198,7 +198,7 @@ local Themes = {
 		DropdownAccent = Color3.fromRGB(219, 68, 103),
 		ColorPicker = Color3.fromRGB(56, 59, 83),
 		ColorPickerAccent = Color3.fromRGB(219, 68, 103),
-		TextField = Color3.fromRGB(73, 77, 108),
+		TextField = Color3.fromRGB(255, 255, 255),
 		TextFieldAccent = Color3.fromRGB(255,255,255),
 	}
 }
