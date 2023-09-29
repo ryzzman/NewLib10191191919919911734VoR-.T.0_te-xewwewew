@@ -171,8 +171,8 @@ local Themes = {
 	},
 	SomeGuy = {
 		MainFrame = Color3.fromRGB(30, 30, 41), -- RED
-		Minimise = Color3.fromRGB(207, 177, 255), -- VERY PINK
-		MinimiseAccent = Color3.fromRGB(43, 0, 74), -- PURPLE
+		Minimise = Color3.fromRGB(255, 0, 68), -- VERY PINK
+		MinimiseAccent = Color3.fromRGB(171, 0, 103), -- PURPLE
 		Maximise = Color3.fromRGB(157, 0, 81), -- BLUE
 		MaximiseAccent = Color3.fromRGB(171, 64, 98), -- LIGHT BLUE
 		NavBar = Color3.fromRGB(39, 40, 57), -- LIGHT GREEN
