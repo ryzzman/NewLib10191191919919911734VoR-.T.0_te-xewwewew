@@ -170,7 +170,7 @@ local Themes = {
 		TextFieldAccent = Color3.fromRGB(255,255,255),
 	},
 	SomeGuy = {
-		MainFrame = Color3.fromRGB(31, 32, 45), -- RED
+		MainFrame = Color3.fromRGB(30, 30, 41), -- RED
 		Minimise = Color3.fromRGB(61, 52, 75), -- VERY PINK
 		MinimiseAccent = Color3.fromRGB(43, 0, 74), -- PURPLE
 		Maximise = Color3.fromRGB(116, 157, 133), -- BLUE
